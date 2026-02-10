@@ -1,6 +1,6 @@
-# ✈️ Travel Agent: Personalized Itinerary Planner 🇮🇳
+# Travel Guide: Personalized Itinerary Planner 
 
-**Travel Agent** is a smart, full-stack application that transforms simple travel inputs (destination, dates, travelers) into **highly personalized, day-by-day itineraries** for destinations within **India**.
+**Travel Guide** is a smart, full-stack application that transforms simple travel inputs (destination, dates, travelers) into **highly personalized, day-by-day itineraries** for destinations within **India**.
 
 It intelligently factors in **transport mode, distance, estimated costs, route logistics,** and **en-route points of interest** to give you the most comprehensive and optimized plan.
 
@@ -20,15 +20,15 @@ It intelligently factors in **transport mode, distance, estimated costs, route l
 
 -----
 
-## 💡 Core Features
+##  Core Features
 
-### 🧠 Intelligent Trip Planning
+###  Intelligent Trip Planning
 
   * **Contextual Logic:** Uses advanced reasoning to create a coherent plan based on your **Starting City, Transport Mode, and Destination**.
   * **Auto-Recommendation Mode:** Suggests the optimal transport mode (Bus/Train for $\le 200 \text{km}$; Plane for $> 200 \text{km}$), while always **honoring the user's explicit choice**.
-  * **Regional Focus:** Currently limited to providing travel plans for destinations **within India** 🇮🇳.
+  * **Regional Focus:** Currently limited to providing travel plans for destinations **within India** .
 
-### 🗺️ Logistics & Costs (Estimates)
+###  Logistics & Costs (Estimates)
 
   * **Comprehensive Overview:** The plan includes a **distance estimate**, **recommended mode**, **estimated pricing** (per person & total), **route summary**, and suggested **optional midway stays** for long journeys.
   * **Day-wise Detail:** Each day lists **themed places** with a **description, suggested activity, and best time to visit**.
@@ -42,14 +42,14 @@ It intelligently factors in **transport mode, distance, estimated costs, route l
 
 -----
 
-## ⚙️ Quick Start Guide
+##  Quick Start Guide
 
-Follow these steps to get the **Travel Agent** running locally on your machine.
+Follow these steps to get the **Travel Guide** running locally on your machine.
 
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/thammi-mhd/travel-agent.git
+git clone https://github.com/mhdmufi04-dot/travel-agent.git
 cd travel-agent
 ```
 
